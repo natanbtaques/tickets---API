@@ -1,0 +1,13 @@
+{
+  "name": "ticket-api",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tickets",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+
+  "author": "Natan Taques",
+  "license": "ISC"
+}
